@@ -8,6 +8,7 @@ Consolidar conhecimentos em Java e tecnologias relacionadas, aplicando conceitos
 ##  Tecnologias Utilizadas
 - **Java**
 - **NetBeans**
+- **IntelliJ**
 - **MySQL**
 - **SQL**
 - **Git / GitHub**
