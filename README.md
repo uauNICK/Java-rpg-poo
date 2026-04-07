@@ -29,6 +29,6 @@ Consolidar conhecimentos em Java e tecnologias relacionadas, aplicando conceitos
 Este repositório está em constante atualização conforme avanço nos estudos e desenvolvimento de novos projetos.
 
 ##  Autor
-**Nicholas Coutinho Lessa**  
+**Nicholas Coutinho Lessa da Silva**  
 Desenvolvedor Java Back-end em formação  
  Volta Redonda – RJ
