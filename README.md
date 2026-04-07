@@ -20,7 +20,7 @@ Consolidar conhecimentos em Java e tecnologias relacionadas, aplicando conceitos
 - Organização e boas práticas de código
 
 ## 📂 Estrutura do Repositório
-- Projetos Java desenvolvidos no NetBeans  
+- Projetos Java desenvolvidos no NetBeans e/ou IntelliJ  
 - Códigos organizados por funcionalidades  
 - Exemplos práticos voltados para back-end  
 
